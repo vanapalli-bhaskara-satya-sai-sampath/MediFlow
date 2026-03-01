@@ -1,0 +1,5 @@
+{
+  "name": "MediFlow HMS",
+  "description": "A comprehensive, fully-functional Hospital Management System frontend with local data persistence.",
+  "requestFramePermissions": []
+}
